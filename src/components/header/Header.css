@@ -1,0 +1,15 @@
+body {
+    background-color: aqua;
+}
+
+div h1 {
+    color: red;
+}
+
+div h2 {
+    color: green;
+}
+
+div h3 {
+    color: blue;
+}
